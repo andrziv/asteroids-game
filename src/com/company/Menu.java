@@ -40,7 +40,6 @@ public class Menu extends JFrame implements MouseListener
         if (e.getPoint().getX() > 200 && e.getPoint().getX() < 500 && e.getPoint().getY() > 200 && e.getPoint().getY() < 500)
         {
             Game asteroids = new Game();
-            System.out.println("BUTTON CLICKED");
             /*
             try {
                 asteroids.init();
