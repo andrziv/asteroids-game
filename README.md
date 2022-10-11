@@ -13,4 +13,4 @@ Right Arrow: go right
 Down Arrow: go down
 Space: shoot cannon
 
-Movement is floaty, there is no drag, so you have to slow yourself down.
+Movement is floaty as there is no drag, so you have to slow yourself down.
