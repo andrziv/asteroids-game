@@ -490,7 +490,6 @@ public class Game extends JFrame implements KeyListener, ActionListener
             for (int i = 0; i < 10; i++)
             {
                 fragmentsList.add(new Fragment(bulletLastPosX, bulletLastPosY, Math.random() * (2 * Math.PI)));
-                System.out.println("SECOUNTER: " + SECounter);
             }
 
             if (SECounter == 100){
